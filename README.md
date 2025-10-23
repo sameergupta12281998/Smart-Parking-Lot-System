@@ -113,12 +113,18 @@ You’ll see an interactive console menu like this:
 
 Follow the on-screen instructions to check in/out vehicles, view spots, or add new floors.
 
-Example Flow.
-======== DISPLAY PANEL ========.
-MOTORCYCLE: 20 available.
-COMPACT: 80 available.
-REGULAR: 40 available.
-LARGE: 30 available.
+Example Flow
+
+======== DISPLAY PANEL ========
+
+MOTORCYCLE: 20 available
+
+COMPACT: 80 available
+
+REGULAR: 40 available
+
+LARGE: 30 available
+
 ===============================.
 
 [ENTRY PANEL] Vehicle KA01AB1234 assigned to Spot: F1-C02
